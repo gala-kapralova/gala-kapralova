@@ -15,11 +15,6 @@ I'm a passionate software developer with a love for creating innovative games an
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-## Projects
-
-- [Luminous Point](https://gk-play.itch.io/luminous-point): A clicker game where you play as a lighthouse keeper, increasing and maintaining the light.
-- [Data Kapellmeister](https://github.com/gala-kapralova/Data-Kapellmeister): A data analyzing tool designed to offer an integrated solution for importing, wrangling, exploring, and visualizing data, with the added capability of exporting cleaned datasets and visualization results. 
-
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/gm-kapralova/)
