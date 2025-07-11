@@ -21,6 +21,5 @@ I'm a passionate software developer with a love for creating innovative games an
 
 ## Fun Facts
 
-- 🌱 I'm currently learning about game development with Unity.
-- 🎮 I love playing and creating indie games.
+- 👾 I'm currently learning about game development with Unity.
 - 😺 I have a cat named Alexis who often keeps me company while I code and always wants to be the main star during video calls.
