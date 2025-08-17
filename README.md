@@ -1,21 +1,33 @@
-## Hi there, I'm Gala! 👋
+<p align="center">
+    <img src="https://galakapralova.com/images/surfing_kinetics.gif" alt="Hero Image" width="800"/>
+</p>
 
-I'm a passionate software developer with a love for creating innovative games and web applications.
+# Hi there, I'm Gala! 👋  
 
-## Skills and Technologies
+I'm a **software developer** with experience in building web applications and interactive solutions. My work spans from custom websites and dashboards to game development experiments with Unity. I enjoy combining **clean code, problem-solving, and creativity** to deliver projects that are both functional and engaging.  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+---
 
-## Get in Touch
+## 🛠 Skills and Technologies  
+- **Languages & Frameworks**: JavaScript, Node.js, React, HTML, CSS.  
+- **Tools & Platforms**: GitHub, REST APIs, SQL, Microsoft Azure.
+- **Other Expertise**: Responsive design, SEO optimization, Unity (C#).
 
-- [LinkedIn](https://www.linkedin.com/in/gm-kapralova/)
+---
 
-## Fun Facts
+## 💡 What I Do  
+- Develop **custom websites** for small businesses and non-profits.
+- Build **interactive dashboards** with real-time data and charts.
+- Explore **game development** and gamified solutions in Unity.
+- Provide **technical support and IT solutions** for clients.
+---
 
-- 👾 I'm currently learning about game development with Unity.
-- 😺 I have a cat named Alexis who often keeps me company while I code and always wants to be the main star during video calls.
+## 📫 Get in Touch  
+- [LinkedIn](https://www.linkedin.com/in/gm-kapralova/)  
+- [Portfolio Website](https://galakapralova.com/)  
+
+---
+
+## 🎲 Fun Facts  
+- 🎮 Currently expanding my skills in **game development with Unity**.
+- 🐾 My cat Alexis is my coding partner (and occasional QA tester during video calls).
